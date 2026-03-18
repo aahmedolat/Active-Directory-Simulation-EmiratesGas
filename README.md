@@ -1,4 +1,4 @@
-# Active Directory Simulation Lab – EmiratesGas Solutions
+# Active Directory Simulation Lab – EmiratesGas
 
 This project demonstrates a **lab simulation of Identity and Access Management (IAM)** using **Windows Server Active Directory Domain Services (AD DS)** for a fictional Oil & Gas company called **EmiratesGas**.
 
