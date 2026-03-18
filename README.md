@@ -176,7 +176,7 @@ Policies are configured using **Group Policy Management Console (gpmc.msc)** and
 
 ## 📸 Screenshots
 
-* EmiratesGas subnet network created
+* [EmiratesGas subnet network created](https://github.com/aahmedolat/Active-Directory-Simulation-EmiratesGas/blob/main/Screenshots/01_EmiratesGas_Subnet_Network.png)
 * Connected Windows Server and All PCs to the Network
 * Ping PC to PC to ensure connectivity on the Network
 * Ping server from/to each PC
