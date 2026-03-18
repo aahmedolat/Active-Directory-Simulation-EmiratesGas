@@ -177,29 +177,29 @@ Policies are configured using **Group Policy Management Console (gpmc.msc)** and
 ## 📸 Screenshots
 
 * [EmiratesGas subnet network created](https://github.com/aahmedolat/Active-Directory-Simulation-EmiratesGas/blob/main/Screenshots/01_EmiratesGas_Subnet_Network.png)
-* Connected Windows Server and All PCs to the Network
-* Ping PC to PC to ensure connectivity on the Network
-* Ping server from/to each PC
-* Active Directory Installed
-* Promoted to Domain Services
-* Logged in to Windows Server as Domain Controller
-* Abu Dhabi OU, groups and users created
-* Dubai OU, groups and users created
-* Sharjah OU, groups and users created
-* Group Policy Objects created and linked to OUs
-* Dafault domain policy - Password policy
-* Dafault domain policy - Account Lockout policy
-* Abu Dhabi Policy - CPanel and PC Settings restricted
-* Abu Dhabi Policy - Powershell restricted
-* Dubai Policy - Comand prompt restricted
-* Sharjah Policy - Disabled poweroff, restart and hybenate
-* Out of Office - Denied user access when absence
-* DNS configuration on all PCs
-* All PC/Users connected the domain server
-* Abu Dhabi users CPanel, PC settings and powershell restricted
-* Dubai users cmd restricted
-* Sharjah users before poweroff disable
-* Sharjah users after poweroff disabled
+* [Connected Windows Server and All PCs to the Network](https://github.com/aahmedolat/Active-Directory-Simulation-EmiratesGas/blob/main/Screenshots/02_Sever_PCs_Network.png)
+* [Ping PC to PC to ensure connectivity on the Network](https://github.com/aahmedolat/Active-Directory-Simulation-EmiratesGas/blob/main/Screenshots/03_Ping_All_PC_to_PC.png)
+* [Ping server from/to each PC](https://github.com/aahmedolat/Active-Directory-Simulation-EmiratesGas/blob/main/Screenshots/04_Ping_All_PCs_to_WinServer.png)
+* [Active Directory Installed](https://github.com/aahmedolat/Active-Directory-Simulation-EmiratesGas/blob/main/Screenshots/05_AD_Installation.png)
+* [Promoted to Domain Services](https://github.com/aahmedolat/Active-Directory-Simulation-EmiratesGas/blob/main/Screenshots/06_DS_Promoted.png)
+* [Logged in to Windows Server as Domain Controller](https://github.com/aahmedolat/Active-Directory-Simulation-EmiratesGas/blob/main/Screenshots/07_LoggedIn_Domain_Controller_Server.png)
+* [Abu Dhabi OU, groups and users created](https://github.com/aahmedolat/Active-Directory-Simulation-EmiratesGas/blob/main/Screenshots/08_AbuDhabi_OU_Groups_Users.png)
+* [Dubai OU, groups and users created](https://github.com/aahmedolat/Active-Directory-Simulation-EmiratesGas/blob/main/Screenshots/09_Dubai_OU_Groups_Users.png)
+* [Sharjah OU, groups and users created](https://github.com/aahmedolat/Active-Directory-Simulation-EmiratesGas/blob/main/Screenshots/10_Sharjah_OU_Groups_Users.png)
+* [Group Policy Objects created and linked to OUs](https://github.com/aahmedolat/Active-Directory-Simulation-EmiratesGas/blob/main/Screenshots/11_GPOs_Created_Linked_OUs.png)
+* [Dafault domain policy - Password policy](https://github.com/aahmedolat/Active-Directory-Simulation-EmiratesGas/blob/main/Screenshots/12_Password_Policy.png)
+* [Dafault domain policy - Account Lockout policy](https://github.com/aahmedolat/Active-Directory-Simulation-EmiratesGas/blob/main/Screenshots/13_AccLoockout_Policy.png)
+* [Abu Dhabi Policy - CPanel and PC Settings restricted](https://github.com/aahmedolat/Active-Directory-Simulation-EmiratesGas/blob/main/Screenshots/14_CP_PC_Settings_Policy_Enabled.png)
+* [Abu Dhabi Policy - Powershell restricted](https://github.com/aahmedolat/Active-Directory-Simulation-EmiratesGas/blob/main/Screenshots/15_Powershell_Restricted.png)
+* [Dubai Policy - Comand prompt restricted](https://github.com/aahmedolat/Active-Directory-Simulation-EmiratesGas/blob/main/Screenshots/16_Command_Prompt_Restricted.png)
+* [Sharjah Policy - Disabled poweroff, restart and hybenate](https://github.com/aahmedolat/Active-Directory-Simulation-EmiratesGas/blob/main/Screenshots/17_Shutdown_Restart_Disabled.png)
+* [Out of Office - Denied user access when absence](https://github.com/aahmedolat/Active-Directory-Simulation-EmiratesGas/blob/main/Screenshots/18_Outof_Office_Access_Denied.png)
+* [DNS configuration on all PCs](https://github.com/aahmedolat/Active-Directory-Simulation-EmiratesGas/blob/main/Screenshots/19_DNS_Configured_All_PC.png)
+* [All PC/Users connected the domain server](https://github.com/aahmedolat/Active-Directory-Simulation-EmiratesGas/blob/main/Screenshots/20_Linked_All_PCs_to_Domain.png)
+* [Abu Dhabi users CPanel, PC settings and powershell restricted](https://github.com/aahmedolat/Active-Directory-Simulation-EmiratesGas/blob/main/Screenshots/21_AbuDhabi_PCs_CPanel_PCsettings_PowerShell_Restricted.png)
+* [Dubai users cmd restricted](https://github.com/aahmedolat/Active-Directory-Simulation-EmiratesGas/blob/main/Screenshots/22_Dubai_PCs_CMD_Restricted.png)
+* [Sharjah users before poweroff disable](https://github.com/aahmedolat/Active-Directory-Simulation-EmiratesGas/blob/main/Screenshots/23_Sharjah_Users_Before_Power_Disable.png)
+* [Sharjah users after poweroff disabled](https://github.com/aahmedolat/Active-Directory-Simulation-EmiratesGas/blob/main/Screenshots/24_Sharjah_Users_After_Power_Disabled.png)
 
 ---
 
